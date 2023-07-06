@@ -19,7 +19,7 @@ Take a look at some of the projects I've worked on:
 
 
 ## Education 🏫
-- Bachelor's Degree in BBA from [Burapha University], [2020]
+- Bachelor's Degree in BBA from Burapha University, 2020
 
 ## Certifications 🎉
 Enhancing my skills, I have earned the following certifications:
