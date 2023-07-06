@@ -35,4 +35,4 @@ Feel free to explore my repositories to get a closer look at the projects I've w
 
 Let's connect and create an impact together with the power of data! 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)](https://github.com/Treephop-bit)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Treephop-bit&show_icons=true)](https://github.com/Treephop-bit)
