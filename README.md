@@ -1,11 +1,9 @@
-# Hi there!
+# Hi there! 👋
 
-## About Me
+## About Me 
 I'm a passionate data analyst with a strong affinity for working with data and a genuine curiosity to uncover insights. I thrive on the challenge of exploring complex datasets, extracting meaningful information, and presenting it in a way that drives positive change.
 
-## Skills
-
-## Skills
+## Skills 🤹
 - Data analysis
 - Data visualization
 - SQL
@@ -15,21 +13,21 @@ I'm a passionate data analyst with a strong affinity for working with data and a
 - Data cleaning and preprocessing
 - Excel
 
-## Projects
+## Projects ⚒️
 Take a look at some of the projects I've worked on:
 - [Project 1](link-to-project): A brief description of the project and its impact.
 - [Project 2](link-to-project): A brief description of the project and its impact.
 - [Project 3](link-to-project): A brief description of the project and its impact.
 
-## Education
+## Education 🏫
 - Bachelor's Degree in BBA from [Burapha University], [2020]
 
-## Certifications
+## Certifications 🎉
 Enhancing my skills, I have earned the following certifications:
 - [My Certification 😊]([link-to-certification](https://bit.ly/3rdNqn8))
 
 
-## Contact Me
+## Contact Me 🤙
 Feel free to reach out to me through these channels:
 - LinkedIn: [Your LinkedIn Profile URL]([link-to-linkedin](https://www.linkedin.com/in/treephob/))
 
