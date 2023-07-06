@@ -26,10 +26,6 @@ Enhancing my skills, I have earned the following certifications:
 - [My Certification 😊](https://bit.ly/3rdNqn8)
 
 
-## Contact Me 🤙
-Feel free to reach out to me through these channels:
-- LinkedIn: [Connect me](https://www.linkedin.com/in/treephob/)
-
   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
