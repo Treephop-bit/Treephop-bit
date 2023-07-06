@@ -29,7 +29,7 @@ Enhancing my skills, I have earned the following certifications:
 
 ## Contact Me 🤙
 Feel free to reach out to me through these channels:
-- LinkedIn: [Your LinkedIn Profile URL]([link-to-linkedin](https://www.linkedin.com/in/treephob/))
+- LinkedIn: [Connect me](https://www.linkedin.com/in/treephob/)
 
 
 Feel free to explore my repositories to get a closer look at the projects I've worked on. I'm open to collaborations and always eager to learn from talented individuals. If you have any questions or would like to discuss potential projects or partnerships, please don't hesitate to get in touch.
