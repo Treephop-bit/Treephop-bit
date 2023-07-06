@@ -24,7 +24,7 @@ Take a look at some of the projects I've worked on:
 
 ## Certifications 🎉
 Enhancing my skills, I have earned the following certifications:
-- [My Certification 😊]([link-to-certification](https://bit.ly/3rdNqn8))
+- [My Certification 😊](https://bit.ly/3rdNqn8)
 
 
 ## Contact Me 🤙
